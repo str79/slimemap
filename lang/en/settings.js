@@ -253,13 +253,13 @@ var slime1Pt=[
   'Groups':'[2]',
   },
   {
-  'Name':'Perhaps it's proud here.',
+  'Name':'Perhaps it\'s proud here.',
   'CoordX':'2412px',
   'CoordY':'1159px',
   'Groups':'[0]',
   },
   {
-  'Name':'Perhaps it's colored.',
+  'Name':'Perhaps it\'s colored.',
   'CoordX':'2459px',
   'CoordY':'1170px',
   'Groups':'[0]',
